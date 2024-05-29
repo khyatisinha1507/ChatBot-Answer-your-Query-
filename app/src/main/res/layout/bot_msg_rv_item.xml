@@ -34,7 +34,6 @@
             android:textColor="@color/white"
             android:id="@+id/idTVBot"/>
 
-
     </LinearLayout>
 
 </androidx.cardview.widget.CardView>
